@@ -1,4 +1,4 @@
-[中文版](README.md)|**English Version**  
+(README.md)
 ![Silent-Face-Anti-Spoofing](https://github.com/minivision-ai/Silent-Face-Anti-Spoofing/blob/master/images/logo.jpg)  
 # Silent-Face-Anti-Spoofing 
 
